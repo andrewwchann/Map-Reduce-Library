@@ -44,6 +44,3 @@ The implementation was tested using the provided `distwc.c` application, which p
 ### Performance Testing
 - Measured execution time with varying numbers of partitions and threads.
 - Ensured that synchronization primitives did not introduce significant overhead.
-
-## Sources
-- Lecture notes and slides on threading and synchronization.
