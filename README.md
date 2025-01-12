@@ -1,9 +1,3 @@
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# Name : Andrew Chan
-# SID : 1721571
-# CCID : ajchan
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
 ## Synchronization Primitives Used
 
 ### MapReduce Library (`mapreduce.c` and `globals.h`)
